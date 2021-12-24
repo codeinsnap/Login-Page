@@ -1,0 +1,43 @@
+.header-container{
+
+    display: flex;
+    background-color: #191919;
+    padding: 10px 0px 0px 0px;
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    box-shadow: 0px 0px 15px 0px rgb(0, 0, 0);
+}
+
+.main-title{
+    color: white;
+    font-size: 40px;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.info{
+    color: white;
+    font-size: 20px;
+    position:absolute;
+    margin-top: 10px;
+    margin-left: 950px;
+
+
+}
+
+.button-container{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 1150px;
+
+}
+
+.button{
+    position: absolute;
+    height: 30px;
+    width: 80px;
+    font-size: medium;
+    
+}
